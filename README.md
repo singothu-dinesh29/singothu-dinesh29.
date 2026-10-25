@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://github.com/singothu-dinesh29.png" width="180" alt="Dinesh Singothu" />
