@@ -1,7 +1,10 @@
 
 <div align="center">
 
-<img src="https://github.com/singothu-dinesh29.png" width="180" alt="Dinesh Singothu" />
+<img src="https://github.com/singothu-dinesh29.png" width="200" alt="Dinesh Singothu" />
+
+<h2>DINESH SINGOTHU</h2>
+
 
 ### AI/ML Student · Software Builder · Aspiring Innovator
 
@@ -16,6 +19,8 @@ Building technology. Expanding knowledge. Creating meaningful change.
 ---
 
 ## About Me
+
+-->WELCOME TO MY AMBITIOUS WORLD
 
 I'm a third-year B.Tech student specializing in Artificial Intelligence and Machine Learning, building the skills to develop intelligent systems, reliable backend applications, and independent technology products.
 
@@ -38,15 +43,17 @@ My vision for Smart People Club is to grow a community into a learning and talen
 
 I want to help build an educational future that complements foundational learning with real-world experience, creativity, and problem-solving.
 
+
 ## My Technical Roadmap
 
-| Domain | Focus |
+| **Domain** | **Focus** |
 |:--|:--|
 | Foundations | Python, computer science, DSA |
 | Backend | FastAPI, SQL, REST APIs, system design |
 | AI/ML | Machine learning, LLMs, RAG, evaluation |
 | Agentic AI | Tool calling, workflows, reliable automation |
 | Engineering | Git, testing, Docker, cloud deployment |
+
 
 ## Projects & Open Learning
 
